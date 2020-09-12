@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Used Technologies In This Project
+ ## React.js, Node.js, Express.js, Stripes for Payment and Firebase/Firestore for cloud functions
 
 ## Available Scripts
 
